@@ -1,0 +1,6 @@
+source http://nexus.schleupen-ag.de/repository/nuget/
+
+storage: none
+framework: net5.0, netstandard2.0, netstandard2.1
+
+nuget Newtonsoft.Json
